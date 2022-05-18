@@ -1,5 +1,6 @@
-# cat-dog-flask
-cat dog neural network implemented into website using flask
+# FIre -Flood Detection using Image classification
+
+neural network implemented into website using flask
 
 to run:
 just clone or download 
